@@ -11,7 +11,7 @@ Azure
 
 ## Automation
 
-Terraform
-Itential
-Ansible
+### Terraform
+### Itential
+### Ansible
 
